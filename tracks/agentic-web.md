@@ -1,4 +1,4 @@
-# AI/Native (Agentic Web)
+# Agentic Web
 
 **AI 原生智能体**
 

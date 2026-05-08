@@ -31,10 +31,10 @@ submissions/
 
 | Track | 赛道 | 首奖 | 详情 |
 |-------|------|------|------|
-| AI/Native | AI 原生智能体 | $30,000 | [查看](tracks/ai-native.md) |
+| Agentic Web | AI 原生智能体 | $30,000 | [查看](tracks/agentic-web.md) |
 | DeFi & Payments | 去中心化金融与支付 | $30,000 | [查看](tracks/defi-payments.md) |
 | Walrus | Walrus 可验证数据 | $35,000 | [查看](tracks/walrus.md) |
-| DeepBook | DeepBook 链上流动性 | $35,000 | [查看](tracks/deepbook.md) |
+| DeepBook | DeepBook 链上预测市场 | $35,000 | [查看](tracks/deepbook.md) |
 
 ## Prizes / 奖金
 

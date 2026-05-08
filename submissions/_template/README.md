@@ -4,7 +4,7 @@
 
 <!-- 选择一个赛道，把 [ ] 改成 [x] / Select one track -->
 
-- [ ] AI/Native
+- [ ] Agentic Web
 - [ ] DeFi & Payments
 - [ ] DeepBook
 - [ ] Walrus

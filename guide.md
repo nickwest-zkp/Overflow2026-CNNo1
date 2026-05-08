@@ -57,6 +57,7 @@ cp -r submissions/_template submissions/<你的GitHub用户名>
 - **链接** — 填上你的 GitHub 仓库地址和 Demo 视频链接
 - **团队成员** — 写上所有成员的 `@github-id`
 - **部署信息** — 填上部署环境（Testnet/Mainnet）和 Package ID
+- **周边** — 如需接收周边，勾选并填写收件信息（可选）
 
 填完大概长这样：
 
@@ -86,6 +87,14 @@ cp -r submissions/_template submissions/<你的GitHub用户名>
 
 - Env: Testnet
 - Package ID: 0x1234...abcd
+
+## Swag / 周边
+
+- [x] 我希望接收周边 / I'd like to receive swag
+- 收件人: 张三
+- 联系方式: @my_wechat
+- 收件地址: 北京市朝阳区xxx
+- 钱包地址: 0xabc...
 ```
 
 ### 4. 提交 PR

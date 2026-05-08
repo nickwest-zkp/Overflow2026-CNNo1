@@ -32,3 +32,13 @@
 
 - Env: Testnet / Mainnet
 - Package ID: `0x...`
+
+## Swag / 周边
+
+<!-- 如需接收周边，填写以下信息（可选）/ Fill in if you want to receive swag (optional) -->
+
+- [ ] 我希望接收周边 / I'd like to receive swag
+- 收件人 / Recipient:
+- 联系方式 / Contact (WeChat / Telegram / Email):
+- 收件地址 / Shipping Address:
+- 钱包地址 / Wallet Address (Sui):
